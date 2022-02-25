@@ -1,6 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id=""tvg-name="Band" tvg-logo="https://megacam.xyz/img/canais/webp/band.webp" group-title="TV Aberta",Band
 
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1795837486.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name="SBT" tvg-logo="https://megacam.xyz/img/canais/webp/sbt.webp" group-title="TV Aberta",SBT
 
@@ -8,7 +10,7 @@ https://rr5---sn-cgpn5oxu-wqv6.googlevideo.com/videoplayback?expire=1645761522&e
 
 #EXTINF:-1 tvg-id=""tvg-name="Record" tvg-logo="https://megacam.xyz/img/canais/webp/record.webp" group-title="TV Aberta",Record
 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645825940/ei/NPsYYumyEMfhwgS_86qoDg/ip/177.37.158.53/id/OxMAupCG1SI.1/source/yt_live_broadcast/requiressl/yes/tx/24129501/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANko8bkPkqVeq7_KKfz7GBqSSzibSGRyms2834DhuoBbAiEA2207uAo-EhWUKZo0FKubQmwEc5RfprFTkox6mzFk_j4%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645762271/ei/fwIYYojGCpeQobIP5dSRmAk/ip/177.37.158.53/id/OxMAupCG1SI.1/source/yt_live_broadcast/requiressl/yes/tx/24129501/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgY2Uwswkpo6-__Sf6MifjzhXb-XgbZbnNMiV7NiMmfQwCIQCssxnF1M3ba_ONN0Pj4IX2x48rMYDehuEKVXYrn_QATQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name="RedeTV" tvg-logo="https://megacam.xyz/img/canais/webp/redetv.webp" group-title="TV Aberta",RedeTV
 
@@ -16,7 +18,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w8
 
 #EXTINF:-1 tvg-id=""tvg-name="TVDIARIO" tvg-logo="https://megacam.xyz/img/canais/webp/tvdiario.webp" group-title="TV Aberta",TVDIARIO
 
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQWJWML1L2hRmvhRG06wzM4)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQWJWML1L2hRmvhRG06wzM4)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id=""tvg-name="Harry Potter e a Pedra Filosofal (1)" tvg-logo="http://meumd.com:80/images/qnw9610ojLT0jU3lMSZOAFttt1e_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e a Pedra Filosofal 1 filme
 
